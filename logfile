@@ -1,0 +1,5 @@
+2025-10-30 12:05:45.658 +06 [25208] LOG:  starting PostgreSQL 17.0 on aarch64-unknown-linux-android, compiled by Android (13624864, +pgo, +bolt, +lto, +mlgo, based on r530567e) clang version 19.0.1 (https://android.googlesource.com/toolchain/llvm-project 97a699bf4812a18fb657c2779f5296a4ab2694d2), 64-bit
+2025-10-30 12:05:45.661 +06 [25208] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-10-30 12:05:45.667 +06 [25208] LOG:  listening on Unix socket "/data/data/com.termux/files/usr/tmp/.s.PGSQL.5432"
+2025-10-30 12:05:45.678 +06 [25213] LOG:  database system was shut down at 2025-10-30 12:05:31 +06
+2025-10-30 12:05:45.696 +06 [25208] LOG:  database system is ready to accept connections
